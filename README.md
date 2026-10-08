@@ -1,16 +1,165 @@
-## Olá Mundo👋
+# 👋 Olá, eu sou a Daiane!
 
-<!--
-**DaiiOliveira/DaiiOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista de Sistemas | Desenvolvedora de Software | DPO | Estudante de Engenharia de Software**
 
-Here are some ideas to get you started:
+Sou profissional a 5 anos na área de tecnologia, atualmente atuando como **Analista de Sistemas**, com experiência no desenvolvimento, sustentação e evolução de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha trajetória na área de tecnologia começou com **Suporte Técnico**, passando por **Desenvolvimento Júnior** e **Desenvolvimento Pleno**, até chegar à atuação como Analista de Sistemas. Essa experiência me permitiu desenvolver uma visão que vai além do código, conectando **necessidades de negócio, usuários e soluções técnicas**.
+
+🎓 Atualmente curso **Bacharelado em Engenharia de Software**, com **formatura em julho/2027**.
+
+🔐 Também pousso certificação internacional da EXIN, o que me permite atuar como **DPO (Data Protection Officer)**, trabalhando com temas relacionados à **LGPD, privacidade e proteção de dados**.
+
+---
+
+## 🚀 Sobre mim
+
+* 💻 Analista de Sistemas
+* 🎓 Bacharelado em Engenharia de Software
+* 🔐 DPO — Data Protection Officer
+* 📜 Certificação Internacional Exin
+* 🧩 Experiência com desenvolvimento e manutenção de sistemas
+* 🔌 Desenvolvimento e integração de APIs
+* 🗄️ Experiência com bancos de dados relacionais
+* ☕ Desenvolvimento com Java e Spring Boot
+* 🐳 Docker e ambientes containerizados
+* 🤖 Interesse em Inteligência Artificial, NLP e automação
+* 🔐 LGPD, privacidade e proteção de dados
+* 🏗️ Arquitetura e engenharia de software
+* 📚 Desenvolvimento contínuo e aprendizado constante
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,php,javascript,typescript,nodejs,go,figma,bootstrap,c,flutter,mongodb" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase" />
+</p>
+
+### ⚙️ DevOps & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,kubernetes,prometheus,grafana,rabbitmq" />
+</p>
+
+### 📱 Desenvolvimento Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,unity" />
+</p>
+
+---
+
+## 🧠 Áreas de interesse
+
+Minha formação e experiência profissional me permitem atuar em diferentes áreas da tecnologia:
+
+* 📝 Análise e Especificação de Requisitos
+* 🏗️ Arquitetura de Software
+* 🔌 Microsserviços
+* 🤖 Inteligência Artificial
+* 🧠 NLP e processamento de linguagem natural
+* 🔐 LGPD e proteção de dados
+* 🛡️ Privacidade e Segurança da Informação
+* 📊 Engenharia de Software
+* ☁️ APIs e integrações
+* 🐳 DevOps e containerização
+* ⚙️ Automação de processos
+* 📈 Análise e melhoria de sistemas
+
+---
+
+Tenho interesse especialmente na interseção entre **tecnologia, desenvolvimento de sistemas, privacidade e proteção de dados**, buscando compreender como soluções de software podem ser desenvolvidas considerando segurança e conformidade desde sua concepção.
+
+---
+
+## 📌 Projetos e estudos
+
+### 📦 Microsserviços com Spring Boot
+
+Estudos práticos envolvendo arquitetura de microsserviços, APIs REST, PostgreSQL, Flyway, Docker e monitoramento.
+
+### 🐾 Desenvolvimento Mobile
+
+Projetos acadêmicos envolvendo desenvolvimento mobile com **Java, Kotlin, Firebase, SQLite, APIs, Google Maps, Autenticação com Google e recursos do dispositivo**.
+
+### 🚨 Modelagem e Simulação
+
+Projetos acadêmicos envolvendo **Modelagem e Simulação Baseada em Agentes**, utilizando ferramentas de simulação para análise de diferentes cenários.
+
+### 🤖 Inteligência Artificial
+
+Estudos e projetos relacionados à utilização de **IA, NLP, automação e integração de agentes inteligentes com sistemas e APIs**.
+
+---
+
+## 💡 Como eu gosto de trabalhar
+
+> **Entender o problema primeiro. Depois pensar na solução. E só então escrever o código.**
+
+Acredito que desenvolvimento de software não é apenas implementar funcionalidades, mas entender **por que elas existem, quem vai utilizá-las e como podem ser construídas de forma sustentável e segura**.
+
+Gosto especialmente de problemas que envolvem a conexão entre:
+
+**Negócio + Tecnologia + Automação + Privacidade**
+
+---
+
+## 📈 Minha evolução
+
+```text
+Suporte Técnico
+      ↓
+Desenvolvedora Júnior
+      ↓
+Desenvolvedora Pleno
+      ↓
+Analista de Sistemas
+      ↓
+DPO
+      ↓
+🎓 Engenhaeira de Software — Julho/2027
+      ↓
+🚀 Próximo desafio
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaiiOliveira&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiiOliveira&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Objetivo
+
+Continuar evoluindo como profissional de tecnologia, aprofundando meus conhecimentos em **desenvolvimento de software, arquitetura, inteligência artificial, privacidade e proteção de dados**.
+
+Busco unir conhecimento técnico e visão de negócio para construir soluções **eficientes, escaláveis e responsáveis**.
+
+---
+
+## 📫 Vamos conversar?
+
+<p>
+  <a href="https://github.com/DaiiOliveira">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Software is not just code. It's a solution to a problem."</i>
+</p>
