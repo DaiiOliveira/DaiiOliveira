@@ -2,13 +2,13 @@
 
 💻 **Analista de Sistemas | Desenvolvedora de Software | DPO | Estudante de Engenharia de Software**
 
-Sou profissional a 5 anos na área de tecnologia, atualmente atuando como **Analista de Sistemas**, com experiência no desenvolvimento, sustentação e evolução de sistemas.
+Sou profissional a 5 anos na área de tecnologia, atualmente atuando como **Analista de Sistemas e Data Protection Officer**, com experiência no desenvolvimento, sustentação, evolução e segurança de sistemas.
 
 Minha trajetória na área de tecnologia começou com **Suporte Técnico**, passando por **Desenvolvimento Júnior** e **Desenvolvimento Pleno**, até chegar à atuação como Analista de Sistemas. Essa experiência me permitiu desenvolver uma visão que vai além do código, conectando **necessidades de negócio, usuários e soluções técnicas**.
 
-🎓 Atualmente curso **Bacharelado em Engenharia de Software**, com **formatura em julho/2027**.
-
 🔐 Também pousso certificação internacional da EXIN, o que me permite atuar como **DPO (Data Protection Officer)**, trabalhando com temas relacionados à **LGPD, privacidade e proteção de dados**.
+
+🎓 Atualmente curso **Bacharelado em Engenharia de Software**, com **formatura em julho/2027**.
 
 ---
 
