@@ -2,11 +2,11 @@
 
 💻 **Analista de Sistemas | Desenvolvedora de Software | DPO | Estudante de Engenharia de Software**
 
-Sou profissional a 5 anos na área de tecnologia, atualmente atuando como **Analista de Sistemas e Data Protection Officer**, com experiência no desenvolvimento, sustentação, evolução e segurança de sistemas.
+Sou profissional **há 5 anos** na área de tecnologia, atualmente atuando como **Analista de Sistemas e Data Protection Officer**, com experiência no desenvolvimento, sustentação, evolução e segurança de sistemas.
 
 Minha trajetória na área de tecnologia começou com **Suporte Técnico**, passando por **Desenvolvimento Júnior** e **Desenvolvimento Pleno**, até chegar à atuação como Analista de Sistemas. Essa experiência me permitiu desenvolver uma visão que vai além do código, conectando **necessidades de negócio, usuários e soluções técnicas**.
 
-🔐 Também pousso certificação internacional da EXIN, o que me permite atuar como **DPO (Data Protection Officer)**, trabalhando com temas relacionados à **LGPD, privacidade e proteção de dados**.
+🔐 Também **possuo certificação internacional EXIN Privacy & Data Protection Essentials**, o que me permite atuar como **DPO (Data Protection Officer)**, trabalhando com temas relacionados à **LGPD, privacidade e proteção de dados**.
 
 🎓 Atualmente curso **Bacharelado em Engenharia de Software**, com **formatura em julho/2027**.
 
@@ -17,7 +17,7 @@ Minha trajetória na área de tecnologia começou com **Suporte Técnico**, pass
 * 💻 Analista de Sistemas
 * 🎓 Bacharelado em Engenharia de Software
 * 🔐 DPO — Data Protection Officer
-* 📜 Certificação Internacional Exin
+* 📜 Certificação Internacional **EXIN Privacy & Data Protection Essentials**
 * 🧩 Experiência com desenvolvimento e manutenção de sistemas
 * 🔌 Desenvolvimento e integração de APIs
 * 🗄️ Experiência com bancos de dados relacionais
@@ -126,7 +126,7 @@ Analista de Sistemas
       ↓
 DPO
       ↓
-🎓 Engenhaeira de Software — Julho/2027
+🎓 Engenheira de Software — Julho/2027
       ↓
 🚀 Próximo desafio
 ```
@@ -155,6 +155,9 @@ Busco unir conhecimento técnico e visão de negócio para construir soluções 
 <p>
   <a href="https://github.com/DaiiOliveira">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daiane-de-oliveira-633a11228">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
