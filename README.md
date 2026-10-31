@@ -109,7 +109,6 @@ Continuar evoluindo como profissional de tecnologia, aprofundando meus conhecime
 Busco unir conhecimento técnico e visão de negócio para construir soluções **eficientes, escaláveis e responsáveis**.
 
 ---
----
 
 <p align="center">
   <i>"Software is not just code. It's a solution to a problem."</i>
