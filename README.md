@@ -12,24 +12,6 @@ Minha trajetória na área de tecnologia começou com **Suporte Técnico**, pass
 
 ---
 
-## 🚀 Sobre mim
-
-* 💻 Analista de Sistemas
-* 🎓 Bacharelado em Engenharia de Software
-* 🔐 DPO — Data Protection Officer
-* 📜 Certificação Internacional **EXIN Privacy & Data Protection Essentials**
-* 🧩 Experiência com desenvolvimento e manutenção de sistemas
-* 🔌 Desenvolvimento e integração de APIs
-* 🗄️ Experiência com bancos de dados relacionais
-* ☕ Desenvolvimento com Java e Spring Boot
-* 🐳 Docker e ambientes containerizados
-* 🤖 Interesse em Inteligência Artificial, NLP e automação
-* 🔐 LGPD, privacidade e proteção de dados
-* 🏗️ Arquitetura e engenharia de software
-* 📚 Desenvolvimento contínuo e aprendizado constante
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
