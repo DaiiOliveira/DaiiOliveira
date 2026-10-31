@@ -83,18 +83,6 @@ Estudos e projetos relacionados à utilização de **IA, NLP, automação e inte
 
 ---
 
-## 💡 Como eu gosto de trabalhar
-
-> **Entender o problema primeiro. Depois pensar na solução. E só então escrever o código.**
-
-Acredito que desenvolvimento de software não é apenas implementar funcionalidades, mas entender **por que elas existem, quem vai utilizá-las e como podem ser construídas de forma sustentável e segura**.
-
-Gosto especialmente de problemas que envolvem a conexão entre:
-
-**Negócio + Tecnologia + Automação + Privacidade**
-
----
-
 ## 📈 Minha evolução
 
 ```text
