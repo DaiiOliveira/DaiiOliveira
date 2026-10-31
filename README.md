@@ -132,16 +132,6 @@ DPO
 ```
 
 ---
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaiiOliveira&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiiOliveira&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Objetivo
 
 Continuar evoluindo como profissional de tecnologia, aprofundando meus conhecimentos em **desenvolvimento de software, arquitetura, inteligência artificial, privacidade e proteção de dados**.
@@ -149,18 +139,6 @@ Continuar evoluindo como profissional de tecnologia, aprofundando meus conhecime
 Busco unir conhecimento técnico e visão de negócio para construir soluções **eficientes, escaláveis e responsáveis**.
 
 ---
-
-## 📫 Vamos conversar?
-
-<p>
-  <a href="https://github.com/DaiiOliveira">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/daiane-de-oliveira-633a11228">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
